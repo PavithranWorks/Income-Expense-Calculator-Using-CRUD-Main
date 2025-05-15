@@ -1,6 +1,6 @@
 # 💰 Income & Expense Tracker
 
-A simple yet effective **Income and Expense Calculator** that helps users track their earnings and spending in **real time**. Built with **HTML**, **CSS**, and **Vanilla JavaScript**, this app is perfect for personal budgeting or learning how to implement full CRUD in frontend apps.
+A simple yet effective **Income and Expense Calculator** that helps users track their earnings and spending in **real time**. Built with **HTML**, **CSS**, and **JavaScript**, this app is perfect for personal budgeting or learning how to implement full CRUD in frontend apps.
 
 ---
 
